@@ -1,6 +1,6 @@
 # Home-Loan-Approval-Prediction
 
-<img src="image.png"
+<img src="image.jpg">
 
 ## About Dataset
 Problem Statement:
